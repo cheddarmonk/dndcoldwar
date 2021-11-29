@@ -1,0 +1,120 @@
+{
+  "main": {
+    "id": "ceaca517f4f04c01",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d55d1a8dcd803e6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "The Story Thus Far.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0bbe98db725a50c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e0514bb4f8ab4e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d631c17b50d646c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "06791c7592438cb5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "764bbf2430c1b0aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "c761bf7220eefa19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b712edc11d6c0c57",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The Story Thus Far.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9e5790681fc20371",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "495aa320342ba03e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "fb66f76f90844b17",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "9d55d1a8dcd803e6",
+  "lastOpenFiles": [
+    "The Story Thus Far.md"
+  ]
+}
