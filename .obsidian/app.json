@@ -3,5 +3,6 @@
   "showFrontmatter": true,
   "foldIndent": true,
   "foldHeading": true,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true
 }

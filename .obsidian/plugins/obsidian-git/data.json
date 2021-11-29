@@ -10,7 +10,7 @@
   "listChangedFilesInMessageBody": true,
   "showStatusBar": true,
   "updateSubmodules": false,
-  "gitPath": "https://github.com/cheddarmonk/DND-Cold-War.git",
+  "gitPath": "",
   "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": true
 }
