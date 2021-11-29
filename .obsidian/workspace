@@ -114,10 +114,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "0fe2957e485317e3",
   "lastOpenFiles": [
-    "World Wiki/Introduction/The Story Thus Far.md"
+    "World Wiki/Introduction/The Story Thus Far.md",
+    "Mythallar.md",
+    "Untitled Kanban.md"
   ]
 }

@@ -4,5 +4,21 @@
   "foldIndent": true,
   "foldHeading": true,
   "showLineNumber": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "spellcheckDictionary": [
+    "Netherese",
+    "arcanists",
+    "mythallars",
+    "Loulaum",
+    "Xinlenal",
+    "Netheril",
+    "Arcanist",
+    "Xolund",
+    "mythallar",
+    "Faerûn",
+    "Selunarra",
+    "Loross",
+    "Selune"
+  ],
+  "strictLineBreaks": true
 }
