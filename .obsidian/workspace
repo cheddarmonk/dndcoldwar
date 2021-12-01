@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "a2d0a6a68a8583d1",
+        "id": "4773893972aa15a1",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -107,19 +107,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "a2d0a6a68a8583d1",
+  "active": "4773893972aa15a1",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "World Wiki/Introduction/Untitled Kanban.md",
-    "World Wiki/World Factions/Warsaw/WARSAW.md",
-    "World Wiki/World Factions/CRR/CRR.md",
-    "World Wiki/World Factions/Nuetral/Neutral.md",
-    "World Wiki/Nations/Untitled 11.md",
-    "World Wiki/Introduction/Forgotten Earth.md",
-    "Special Things For PC/Enclaves.md",
+    "Untitled Kanban.md",
+    "World Wiki/World Factions/NATO/NATO.md",
+    "World Wiki/Nations/Europe/Europe.md",
+    "Pictures/Europe.png",
     "Special Things For PC/Mythallar.md",
-    "World Wiki/Nations/North America/Untitled.md"
+    "World Wiki/Introduction/The Story Thus Far.md",
+    "World Wiki/Introduction/History of The Forgotten Earth.md",
+    "Special Things For PC/Netheril.md",
+    "Special Things For PC/Loulaum.md",
+    "World Wiki/World Factions/Warsaw/WARSAW Treaty.md"
   ]
 }
