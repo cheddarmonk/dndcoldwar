@@ -1,1 +1,0 @@
-[[East Germany]][[Czechoslovakia]][[Albania]][[Romania]][[Soviet Union]][[Yugoslavia]][[Turkey]]
