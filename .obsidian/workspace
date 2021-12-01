@@ -7,7 +7,7 @@
         "id": "4773893972aa15a1",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -112,6 +112,7 @@
   },
   "active": "4773893972aa15a1",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Untitled Kanban.md",
     "World Wiki/World Factions/NATO/NATO.md",
     "World Wiki/Nations/Europe/Europe.md",
@@ -120,7 +121,6 @@
     "World Wiki/Introduction/The Story Thus Far.md",
     "World Wiki/Introduction/History of The Forgotten Earth.md",
     "Special Things For PC/Netheril.md",
-    "Special Things For PC/Loulaum.md",
-    "World Wiki/World Factions/Warsaw/WARSAW Treaty.md"
+    "Special Things For PC/Loulaum.md"
   ]
 }
