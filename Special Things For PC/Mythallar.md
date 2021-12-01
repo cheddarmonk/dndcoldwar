@@ -36,3 +36,4 @@ Touching a mythallar was a lethal decision. Anyone who touched the device was in
 A mythallar could be destroyed by a disintegrate spell [5] as happened to the enclave of Tanathras in −647 DR (3212 NY).
 
 ### **References**
+https://forgottenrealms.fandom.com/wiki/Mythallar

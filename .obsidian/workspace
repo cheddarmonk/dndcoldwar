@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Wiki/Introduction/History of The Forgotten Earth.md",
+            "file": "Special Things For PC/Netherese.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Wiki/Introduction/History of The Forgotten Earth.md",
+                "file": "Special Things For PC/Netherese.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Wiki/Introduction/History of The Forgotten Earth.md",
+                "file": "Special Things For PC/Netherese.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Wiki/Introduction/History of The Forgotten Earth.md"
+                "file": "Special Things For PC/Netherese.md"
               }
             }
           },
@@ -119,9 +119,15 @@
   },
   "active": "a2d0a6a68a8583d1",
   "lastOpenFiles": [
-    "World Wiki/Introduction/History of The Forgotten Earth.md",
-    "World Wiki/Introduction/The Story Thus Far.md",
-    "Mythallar.md",
-    "Untitled Kanban.md"
+    "Special Things For PC/Netherese.md",
+    "Special Things For PC/Loulaum.md",
+    "Special Things For PC/Netheril.md",
+    "World Wiki/Nations/North America/Canada.md",
+    "Special Things For PC/Mythallar.md",
+    "World Wiki/World Factions/Warsaw/Untitled.md",
+    "World Wiki/World Factions/Nuetral/Untitled.md",
+    "World Wiki/World Factions/NATO/Untitled.md",
+    "World Wiki/Nations/Europe/Europe.md",
+    "World Wiki/Nations/Europe/East Europe/Yugoslavia.md"
   ]
 }
