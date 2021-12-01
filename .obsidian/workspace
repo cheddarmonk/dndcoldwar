@@ -7,9 +7,10 @@
         "id": "a2d0a6a68a8583d1",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Untitled Kanban.md"
+            "file": "World Wiki/Introduction/History of The Forgotten Earth.md",
+            "mode": "source"
           }
         }
       }
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled Kanban.md",
+                "file": "World Wiki/Introduction/History of The Forgotten Earth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled Kanban.md",
+                "file": "World Wiki/Introduction/History of The Forgotten Earth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -96,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled Kanban.md"
+                "file": "World Wiki/Introduction/History of The Forgotten Earth.md"
               }
             }
           },
@@ -117,6 +118,7 @@
   },
   "active": "a2d0a6a68a8583d1",
   "lastOpenFiles": [
+    "World Wiki/Introduction/History of The Forgotten Earth.md",
     "Untitled Kanban.md",
     "Pictures/Europe.png",
     "Special Things For PC/Netheril.md",
@@ -125,7 +127,6 @@
     "World Wiki/World Factions/Nuetral/Untitled.md",
     "World Wiki/World Factions/NATO/NATO.md",
     "World Wiki/Nations/Europe/West Europe/United Kingdom.md",
-    "Special Things For PC/Netherese.md",
-    "World Wiki/Introduction/The Story Thus Far.md"
+    "Special Things For PC/Netherese.md"
   ]
 }
