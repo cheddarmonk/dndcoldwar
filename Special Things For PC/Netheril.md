@@ -1,0 +1,9 @@
+## Netheril
+
+Netheril was an ancient, magocratic human empire of Faerûn, whose influence was felt across the Realms for thousands of years. The Netherese people lived in a strict hierarchy for hundreds of years, split into the nobles of High Netheril, living in flying enclaves miles above Toril, and the commoners of Low Netheril settled in demesnes on the coast of the Narrow Sea. During its glory years before Dale Reckoning, the Empire of Magic would spread across a great stretch of Faerûn.
+
+The empire was the pinnacle of human civilization during the first half of the Age of Humanity. Although they had humble roots as mere fishermen and farmers, the Netherese were introduced to the Art by the elves of Eaerlann, and came to harness this arcane power in ways that would shape Toril for generations. Over the next thousand years they discovered the long lost Nether Scrolls, developed the creation and use of mythallars and created the first of their flying cities, Xinlenal. The arrogance of Netheril grew to the point where they attempted to attain the divinity of magic, and wound up destroying the Weave. In the resulting maelstrom, the Faerûnian pantheon was altered and most of the flying cities of Netheril came crashing to the earth.
+
+High Netheril was ruined in a matter of hours, while Low Netheril experienced a long, agonizing decline by the aberrant Phaerimm. The enclave of Thultanthar was transported to the Shadowfell, where it remained for 1,700 years. Upon their return to Toril in the late 14th century DR, the shadow-plagued Netherese people, known as the Shadovar, revived the Empire and enthralled the people of north Faerûn for over a hundred years. While they sought to fuse the Weave with the Shadowfell, the Shade Enclave was brought crashing down over the renewed realm of Myth Drannor.
+
+https://forgottenrealms.fandom.com/wiki/Netheril

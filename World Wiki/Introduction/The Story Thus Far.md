@@ -5,3 +5,13 @@ So let me spin you a tale of a history of Earth, where those things forgotten sh
 The year is 1959, *World War II* has just ended its devastating era. Considered the war that would end all wars, almost everyone is ready to return to the peaceful life they once had. Many lives have been torn apart and are now having to be rebuilt from nothing. This effort of peace unknowingly is still threatened and as the semblance of peace and trust is trying to regain its place in the hearts of the people there are some who would use this opportunity for their own schemes. With the pain and misery of the war still fresh and raw, peace, if anything, is fragile. Many of the nations, those who participated and those neutral, have come together to create body of international jurisdiction to help rebuild the word and to help safeguard the peace that has been brokered. The  Council of Realm Reunification. Although the Council was designed with good intentions, the amount of corruption, bureaucracy, and bitterness has all but left them ineffective in their pursuit. 
 
 Now the time has come for you to once again take up arms, choose your side, and help bring about the peace that is so desperately sought, yet so easily lost. Remember this, The choices you make have consequences and lives are fragile. Be mindful of how you walk this earth for the footprints you leave behind can be followed. 
+
+### Links to Explore
+1. Nations
+2. World Factions
+	1. Nato
+	2. Warsaw
+	3. Neutral
+3. Enclaves
+	1. Mythallar
+4. Introduction
