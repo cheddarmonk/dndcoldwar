@@ -7,9 +7,9 @@
         "id": "a2d0a6a68a8583d1",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "kanban",
           "state": {
-            "file": "Pictures/Europe.png"
+            "file": "Untitled Kanban.md"
           }
         }
       }
@@ -67,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pictures/Europe.png",
+                "file": "Untitled Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +84,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pictures/Europe.png",
+                "file": "Untitled Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pictures/Europe.png"
+                "file": "Untitled Kanban.md"
               }
             }
           },
@@ -109,7 +109,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -117,6 +117,7 @@
   },
   "active": "a2d0a6a68a8583d1",
   "lastOpenFiles": [
+    "Untitled Kanban.md",
     "Pictures/Europe.png",
     "Special Things For PC/Netheril.md",
     "Special Things For PC/Loulaum.md",
@@ -125,7 +126,6 @@
     "World Wiki/World Factions/NATO/NATO.md",
     "World Wiki/Nations/Europe/West Europe/United Kingdom.md",
     "Special Things For PC/Netherese.md",
-    "World Wiki/Introduction/The Story Thus Far.md",
-    "Special Things For PC/Mythallar.md"
+    "World Wiki/Introduction/The Story Thus Far.md"
   ]
 }
