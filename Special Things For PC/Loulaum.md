@@ -1,5 +1,5 @@
 ## Loulaum
-Ioulaum was a great archwizard of Netheril, a beloved champion of his people and the inventor of both the mythallar and the flying enclaves of his empire.[2] When Ioulaum abandoned Netheril to escape the life drain dweomers of the phaerimm in −339 DR, panic spread at the news of his disappearance, leading to Karsus casting his spell Karsus's avatar. After the fall of Netheril, Ioulaum survived as an elder brain (the central brain of an illithid community) lich.
+Ioulaum was a great archwizard of [[Netheril]], a beloved champion of his people and the inventor of both the mythallar and the flying enclaves of his empire. When Ioulaum abandoned Netheril to escape the life drain dweomers of the phaerimm in −339 DR, panic spread at the news of his disappearance, leading to Karsus casting his spell Karsus's avatar. After the fall of Netheril, Ioulaum survived as an elder brain (the central brain of an illithid community) lich.
 
 ### Contents
 * Activities
@@ -17,7 +17,7 @@ Early life and The Excursion Into Extinction
 Born in Seventon in −3315 DR, Ioulaum soon rose to prominence when in −3145 DR he led a major battle known as the Excursion into Extinction, bringing thousands of Netherese spellcasters and warriors to mount an attack against the largest concentration of orcs in Netheril's land at the time.
 
 ### The Mythallar Era
-Ioulaum was most famous for his invention of the mythallar in −3014 DR. The mythallar dug deep into the raw, unfiltered magic of the weave. The arcanists of Netheril used it to create quasi-magical items - items that were permanent as long as they were within the one mile range of a mythallar.
+Ioulaum was most famous for his invention of the mythallar in −3014 DR. The [[Mythallar]] dug deep into the raw, unfiltered magic of the weave. The arcanists of Netheril used it to create quasi-magical items - items that were permanent as long as they were within the one mile range of a mythallar.
 
 With the establishment of the mythallar, Ioulaum created the first mythallar-powered item in −3011 DR and the first floating city in −2954 DR.
 
