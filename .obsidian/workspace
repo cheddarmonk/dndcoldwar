@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "ceaca517f4f04c01",
+    "id": "ff7d8dd06af188d5",
     "type": "split",
     "children": [
       {
-        "id": "4773893972aa15a1",
+        "id": "e034b3196d195a87",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -110,7 +110,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4773893972aa15a1",
+  "active": "e034b3196d195a87",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Untitled Kanban.md",
