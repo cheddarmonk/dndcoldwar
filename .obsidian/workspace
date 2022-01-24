@@ -1,14 +1,17 @@
 {
   "main": {
-    "id": "ff7d8dd06af188d5",
+    "id": "ceaca517f4f04c01",
     "type": "split",
     "children": [
       {
-        "id": "e034b3196d195a87",
+        "id": "a2d0a6a68a8583d1",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "World Wiki/Introduction/Forgotten Earth.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "World Wiki/Introduction/Forgotten Earth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "World Wiki/Introduction/Forgotten Earth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -91,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "World Wiki/Introduction/Forgotten Earth.md"
+              }
             }
           },
           {
@@ -107,20 +114,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "e034b3196d195a87",
+  "active": "a2d0a6a68a8583d1",
   "lastOpenFiles": [
+    "World Wiki/Introduction/Forgotten Earth.md",
     "conflict-files-obsidian-git.md",
-    "Untitled Kanban.md",
-    "World Wiki/World Factions/NATO/NATO.md",
-    "World Wiki/Nations/Europe/Europe.md",
-    "Pictures/Europe.png",
+    "World Wiki/Introduction/Untitled Kanban.md",
+    "World Wiki/World Factions/Warsaw/WARSAW.md",
+    "World Wiki/World Factions/CRR/CRR.md",
+    "World Wiki/World Factions/Nuetral/Neutral.md",
+    "World Wiki/Nations/Untitled 11.md",
+    "Special Things For PC/Enclaves.md",
     "Special Things For PC/Mythallar.md",
-    "World Wiki/Introduction/The Story Thus Far.md",
-    "World Wiki/Introduction/History of The Forgotten Earth.md",
-    "Special Things For PC/Netheril.md",
-    "Special Things For PC/Loulaum.md"
+    "World Wiki/Nations/North America/Untitled.md"
   ]
 }
