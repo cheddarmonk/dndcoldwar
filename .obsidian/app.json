@@ -37,5 +37,7 @@
     "flayers",
     "magocratic"
   ],
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "legacyEditor": false,
+  "livePreview": true
 }

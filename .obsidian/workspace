@@ -10,7 +10,8 @@
           "type": "markdown",
           "state": {
             "file": "World Wiki/Introduction/Forgotten Earth.md",
-            "mode": "source"
+            "mode": "source",
+            "source": false
           }
         }
       }
